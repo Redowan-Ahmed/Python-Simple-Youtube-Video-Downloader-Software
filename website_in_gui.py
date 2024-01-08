@@ -72,7 +72,7 @@ if __name__ == "__main__":
 
 
 
-# After lot's of debugging The code is working but not 100% as expected and Chat GPT was Unsuccessful then entire process.
+# After lot's of self debugging, The code is working but not 100% as expected and Chat GPT was Unsuccessful the entire process.
 
 from PyQt5.QtCore import QUrl
 from PyQt5.QtWidgets import QApplication, QMainWindow
